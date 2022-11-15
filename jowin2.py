@@ -1,10 +1,10 @@
 #WAP to find the number of spaces present within the given string.
 
-# a = 'Python is a programming language'
-# new_a = a.replace('','')
-# print (a)
-# print(new_a)
-# print(f'The number of spaces present within the given sting: ',a.count(''))
+ a = 'Python is a programming language'
+ new_a = a.replace('','')
+ print (a)
+ print(new_a)
+ print(f'The number of spaces present within the given sting: ',a.count(''))
 
 
 
